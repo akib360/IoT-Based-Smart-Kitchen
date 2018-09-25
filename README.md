@@ -8,6 +8,9 @@
   4. Wire
   5. Breadboard
   
+# IoT platform : ThingSpeak
+  link: https://thingspeak.com/
+  
  # SOFTWARE:
  We used the Arduino-Integrated Development Environment (IDE) with nodeMCU board supported, to write code and upload it to the board. It’s a Free and Open source software.
  
