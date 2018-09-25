@@ -12,7 +12,7 @@
   link: https://thingspeak.com/
   
  # SOFTWARE:
- We used the Arduino-Integrated Development Environment (IDE) with nodeMCU board supported, to write code and upload it to the board. It’s a Free and Open source software.
+ I'm using Arduino-Integrated Development Environment (IDE) with nodeMCU board supported, to write code and upload it to the board. It’s a Free and Open source IDE.
  
  ![45993904-e72d0880-c0b2-11e8-857a-6e86a6635f91](https://user-images.githubusercontent.com/36074470/45995128-97e9d680-c0b8-11e8-8169-a686e79fac25.jpg)
  
